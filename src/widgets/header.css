@@ -1,0 +1,9 @@
+.hover-color-change:hover {
+    color: #65E8E8;
+    text-decoration: underline; /**添加下划线悬停**/
+}
+
+.text-default {
+    color: #65E8E8;
+    text-decoration: underline; /* 默认添加下划线 */
+}
